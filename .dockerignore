@@ -1,0 +1,7 @@
+.env
+node_modules
+combined.log
+.DS_Store
+.vscode
+.github
+.gitignore
